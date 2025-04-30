@@ -391,7 +391,7 @@
           { "item": "itzcuauhtli_holster" },
           { "item": "itzcuauhtli_wrist_computer", "charges": [ 7000, 10000 ] },
           { "item": "matrix_crystal_teleportation" },
-          { "item": "mom_fusion_pistol" },
+          { "item": "mom_fusion_pistol", "ammo-item": "mom_fusion_ammo", "charges": 40 },
           { "item": "mom_fusion_mag", "ammo-item": "mom_fusion_ammo", "charges": 40 }
         ]
       },
